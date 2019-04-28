@@ -1,12 +1,12 @@
 package com.lambda;
 
-public class VariableAccessTest {
+public class VariableAccessExample {
 
     private static String staticText = "Static 1";
     private int instanceVar = 1;
 
     public static void main(String args[]){
-        VariableAccessTest instance = new VariableAccessTest();
+        VariableAccessExample instance = new VariableAccessExample();
         instance.doIt();
     }
 

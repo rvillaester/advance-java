@@ -1,6 +1,6 @@
 package com.lambda;
 
-public class VoidInterfaceTest {
+public class VoidInterfaceExample {
 
     public static void main(String args[]){
         testVoidWithNoParams();

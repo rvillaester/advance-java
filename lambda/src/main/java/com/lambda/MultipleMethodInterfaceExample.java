@@ -1,6 +1,6 @@
 package com.lambda;
 
-public class MultipleMethodInterfaceTest {
+public class MultipleMethodInterfaceExample {
 
     public static void main(String args[]){
         test();

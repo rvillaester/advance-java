@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class GenericStream {
+public class GenericStreamExample {
 
     public static void main(String args[]){
         sortAndFind();

@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class FileStream {
+public class FileStreamExample {
 
     public static void main(String args[]) throws Exception{
         findEntryInFile();

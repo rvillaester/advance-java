@@ -1,6 +1,6 @@
 package com.lambda;
 
-public class ReturnValueInterfacesTest {
+public class ReturnValueInterfacesExample {
 
     public static void main(String args[]){
         testReturnValueWithNoParams();

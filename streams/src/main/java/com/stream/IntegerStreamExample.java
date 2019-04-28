@@ -3,7 +3,7 @@ package com.stream;
 import java.util.IntSummaryStatistics;
 import java.util.stream.IntStream;
 
-public class IntegerStream {
+public class IntegerStreamExample {
 
     public static void main(String args[]){
         printStream();
