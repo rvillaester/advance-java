@@ -4,5 +4,7 @@ Producer
     - Gets an object, uses it but return no response
 Predicate
     - Represents an operation that takes a single input and returns a boolean value.
+Optional
+    - Saves us from checking if the object is null
 
 All of these are single abstract method interfaces. Can be replaced by lambda expression.
