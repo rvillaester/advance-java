@@ -19,6 +19,7 @@
     <modules>
         <module>lambda</module>
 		<module>streams</module>
+		<module>functional-programming</module>
     </modules>
 	
     <dependencies>
