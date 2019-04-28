@@ -1,0 +1,8 @@
+Supplier
+    - Supplies an instance of given type by constructor or some other way
+Producer
+    - Gets an object, uses it but return no response
+Predicate
+    - Represents an operation that takes a single input and returns a boolean value.
+
+All of these are single abstract method interfaces. Can be replaced by lambda expression.

@@ -1,0 +1,7 @@
+What is Lambda?
+    - lambda expressions are new in Java 8
+    - lambda expressions are Java's first step into functional programming
+    - lambda expression is thus a function which can be created without belonging to any class
+    - lambda expression can be passed around as if it was an object and executed on demand
+
+In this module I'll write examples on how you can use lambda expressions.

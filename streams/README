@@ -1,0 +1,10 @@
+What is Stream?
+    - is not a data structure instead it takes input from the Collections, Arrays or I/O channels
+    - don’t change the original data structure, they only provide the result as per the pipelined methods
+
+Different operations in stream
+    - Intermediate Operations: map, filter, sorted etc
+        - these operations will just return another stream which then you can invoke any stream operators
+    - Terminal Operations: collect, reduce, forEach etc
+        - these operations either return a value or print something
+        - no further stream operations can be invoke after a terminal operation

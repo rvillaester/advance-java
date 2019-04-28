@@ -1,0 +1,9 @@
+In this project we will explore some of the advance feature added to JAVA starting JAVA 8.
+
+- Lambda
+- Streams
+- Functional programming
+    - Producer
+    - Consumer
+    - Predicate
+    - Optional
